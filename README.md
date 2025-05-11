@@ -36,8 +36,4 @@
 
 ## Time Taken
 
-The assignment was completed in approximately **8 hours**, including:
-
-- **2 hours** for planning and understanding requirements.
-- **4 hours** for implementation and coding.
-- **2 hours** for testing, debugging, and documentation.
+The assignment was completed in approximately **6 hours**
